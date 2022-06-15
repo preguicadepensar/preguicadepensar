@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome @Pedro Henrique
 - 👀 Estou interessado em aprender coisas novas
 - 🌱 Estou aprendendo a programar em JavaScript
-- 📫 Parav chegar até a mim segue o email para contato
+- 📫 Para chegar até a mim segue o email para contato
 - pedro.santos.goncalves@escola.pr.gov.br
